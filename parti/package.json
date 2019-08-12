@@ -1,0 +1,11 @@
+{
+  "name": "parti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "jasmine test.js"
+  },
+  "author": "Lisa",
+  "license": "ISC"
+}
